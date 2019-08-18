@@ -1,2 +1,0 @@
-# Aliyahwebsite
-Created with CodeSandbox
